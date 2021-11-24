@@ -1,0 +1,21 @@
+Start testing: Nov 24 10:56 Romance Standard Time
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/Sejer/OneDrive/Desktop/AU/Introduktion_til_Programmering/assignment-12-WokeCode/build/tests/tests.exe"
+Directory: C:/Users/Sejer/OneDrive/Desktop/AU/Introduktion_til_Programmering/assignment-12-WokeCode/build/tests
+"usage_test" start time: Nov 24 10:56 Romance Standard Time
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   4.06 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 24 10:56 Romance Standard Time
+"usage_test" time elapsed: 00:00:04
+----------------------------------------------------------
+
+End testing: Nov 24 10:56 Romance Standard Time
